@@ -2,8 +2,8 @@
 A 2D game developed in python with pygame
 
 Concept:
-  A spaceship tryes to survive in space. It has 2 main ablities. 
-    1)to avoid the Rocks that it is facing. 
+  A spaceship tryes to survive in space. It has 2 main ablities.\n
+    1)to avoid the Rocks that it is facing.\n
     2)to hit the Rocks with bullets and eventually destory them
 
  The spaceship had a certain amount of life, that is reduced whenever it is hit by a rock. 
