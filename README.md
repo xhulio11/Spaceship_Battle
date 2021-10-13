@@ -31,6 +31,6 @@ A 2D game developed in python with pygame
   
  <h2>How to install:</h2>
     <p> For the time being, game is not able to be installed with ONE-CLICK. If you want to run the game, download the files and run main.py</p>
-    <p><b>HAVE FUN</b></p>
+    <p><b>HAVE FUN!</b></p>
   
   
