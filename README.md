@@ -1,7 +1,7 @@
 # Spaceship_Battle
 A 2D game developed in python with pygame
 
-Concept:
+<h1>Concept:<\h1>
 
   A spaceship tryes to survive in space. It has 2 main ablities.
   
