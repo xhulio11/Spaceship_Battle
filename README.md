@@ -1,4 +1,4 @@
-# Spaceship_Battle
+# Spaceship Battle
 A 2D game developed in python with pygame
 
 <h2>Concept:</h2>
