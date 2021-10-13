@@ -27,9 +27,10 @@ A 2D game developed in python with pygame
     <li>When player has lost, he is asked if he want to save his score giving a name.</li>
     <li>2 pictures of the game are included to give you an idea</li>
   </p>
+  </ul>
   
-  <h2>How to install:</h2>
+ <h2>How to install:</h2>
     <p> For the time being, game is not able to be installed with ONE-CLICK. If you want to run the game, download the files and run main.py</p>
-    <p>HAVE FUN</p>
+    <p><b>HAVE FUN</b></p>
   
   
