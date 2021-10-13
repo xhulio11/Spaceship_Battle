@@ -22,10 +22,10 @@ A 2D game developed in python with pygame
   </ol>
  
  <h2>Game Enviroment:</h2>
-  <p>
-  The game keeps a leaderboard with the 8 best scores, that user can watch clicking a button.
-  When player has lost, he is asked if he want to save his score giving a name.
-  2 pictures of the game are included to give you an idea
+  <ul>
+    <li>The game keeps a leaderboard with the 8 best scores, that user can watch clicking a button.</li>
+    <li>When player has lost, he is asked if he want to save his score giving a name.</li>
+    <li>2 pictures of the game are included to give you an idea</li>
   </p>
   
   <h2>How to install:</h2>
