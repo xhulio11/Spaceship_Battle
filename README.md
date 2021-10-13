@@ -15,8 +15,13 @@ A 2D game developed in python with pygame
  become more and more through time. How long it is going to survive?
  </p>
  
- <h2>Game Enviroment:</h2>
+ <h2>GamePlay:</h2>
+  <ol> 
+    <li>Use Arrows for the movement of the spaceship</li>
+    <li>Use space to shot Bullets</li>
+  </ol>
  
+ <h2>Game Enviroment:</h2>
   <p>
   The game keeps a leaderboard with the 8 best scores, that user can watch clicking a button.
   When player has lost, he is asked if he want to save his score giving a name.
