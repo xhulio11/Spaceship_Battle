@@ -5,7 +5,7 @@ A 2D game developed in python with pygame
 
   <p>A spaceship tries to survive in space. It has 2 main ablities.</p>
     <ol>
-      <li>to avoid the Rocks that it is facing.</li>
+      <li>to avoid the Rocks that is facing.</li>
       <li>to hit the Rocks with bullets and eventually destory them</li>
     </ol>
  
